@@ -4,8 +4,7 @@
 `TODO://` A simple tip calculator, with a segmented button to choose tip percentage.
 
 ### App Walk-though
-<img src=blob: "blob:https://parksideadrian.imgur.com/862dd5e8-e971-484f-b2f0-47a42b0cf32f" width=200><br>
-
+https://i.imgur.com/8Wm3eu1.gifv
 
 ### Required User Stories
 - [ ] 1. User sees custom text in a label - Hello from {name}!
